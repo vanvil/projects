@@ -1,0 +1,218 @@
+.big {
+    font-size: 50px;
+    width: 100%;
+    font-weight: 400;
+}
+
+.big2 {
+    font-size: 38px;
+    color: #45015d;
+}
+
+.line {
+    width: 100%;
+    height: 10px;
+    background-color: #45015d;
+    margin-bottom: 20px;
+    border-radius: 4px;
+}
+
+hr {
+    width: 100%;
+    border: 5px solid #45015d;
+    border-radius: 4px;
+    margin: 20px 0;
+}
+
+.rooms img {
+    width: 45%;
+    display: inline-block;
+    margin-left: 30px;
+    margin-top: 30px;
+    border-radius: 10px;
+    opacity: 0.7;
+}
+
+.rooms img:hover {
+    opacity: 1;
+}
+
+.blablabla {
+    height: 100px;
+    word-break: break-all;
+}
+
+.menu {
+    display: inline-block;
+    position: fixed;
+    width: 10%;
+    background-color: #45015d;
+    height: 100%;
+    color: white;
+    top: 0;
+    left: 0;
+    border-radius: 10px;
+}
+
+.main {
+    display: inline-block;
+    width: 75%;
+    margin-left: 300px;
+}
+
+.menu a {
+    display: block;
+    color: inherit;
+    font-size: 20px;
+    padding: 8px 16px;
+    text-decoration: solid;
+}
+
+.menu a:hover {
+    color: #000;
+    background-color: #fff;
+}
+
+.menu h2 {
+    padding: 8px 16px;
+}
+
+.card {
+    width: 30%;
+    margin-left: 20px;
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.card img {
+    width: 100%;
+    filter: grayscale(30%);
+    border-radius: 10px;
+}
+
+.minicard {
+    width: 420px;
+    background-color: lightgrey;
+    height: 300px;
+    border-radius: 10px;
+}
+
+.card p {
+    word-break: break-all;
+    margin: 10px;
+    height: 100%;
+    width: 420px;
+    background-color: lightgrey;
+    height: 300px;
+    border-radius: 10px;
+}
+
+.proks li {
+    list-style-type: none;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: gray;
+    padding: 16px 0;
+    font-size: 40px;
+}
+
+.proks div {
+    display: inline-block;
+}
+
+.prok1 {
+    background-color: lightgrey;
+    margin: 30px;
+    text-align: center;
+    display: inline-block;
+    width: 45%;
+    min-width: 300px;
+}
+
+.prok3 {
+    background-color: lightgrey;
+    margin: 30px;
+    text-align: center;
+    display: inline-block;
+    width: 45%;
+    min-width: 300px;
+}
+
+.stand {
+    color: white;
+    background-color: #45015d;
+    padding: 32px 0;
+    font-size: 48px;
+    border-radius: 10px;
+    height: 100px;
+}
+
+.vip {
+    color: white;
+    background-color: red;
+    padding: 32px 0;
+    font-size: 24px;
+    border-radius: 10px;
+    height: 100px;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+input {
+    border: 3px solid #45015d;
+    display: block;
+    margin-top: 20px;
+    width: 100%;
+}
+
+.problem {
+    width: 300px;
+    height: 200px;
+    width: 100%;
+}
+
+.big1 {
+    font-size: 50px;
+    margin: 0;
+}
+
+.small {
+    margin: 0;
+    color: gray;
+    font-size: 30px;
+    margin-left: 0;
+}
+
+.b2 {
+    color: white;
+    background-color: red;
+    border-radius: 12px;
+    border: 0;
+    height: 60px;
+    width: 100px;
+    font-size: 25px;
+}
+
+.b1 {
+    color: #45015d;
+    background-color: white;
+    border-radius: 12px;
+    border: 0;
+    height: 60px;
+    width: 100px;
+    font-size: 25px;
+}
+
+.send {
+    color: white;
+    background-color: #45015d;
+    border-radius: 8px;
+    border: 0;
+    height: 60px;
+    width: 100%;
+    font-size: 25px;
+    margin-top: 20pt;
+}
